@@ -27,7 +27,7 @@ Este proyecto implementa un flujo básico ETL utilizando Python, pandas, SQLite 
 
 ## 🧠 Autor
 
-Mauricio Mauricio Arcila Cano 
+Mauricio Arcila Cano 
 LinkedIn: www.linkedin.com/in/mauricio-arcila-cano-6892641b3
 GitHub: [mauroarc92 ](https://github.com/mauroarc92)
 
